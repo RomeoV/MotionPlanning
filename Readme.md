@@ -1,5 +1,5 @@
 # Path planner
-After reading up on [Sampling based motion planning] (http://ompl.kavrakilab.org/OMPL_Primer.pdf) I wanted to try it out myself, so I wrote a little library that does simple sample based motion planning using graph optimization (with Boost::Graph).
+After reading up on [Sampling based motion planning](http://ompl.kavrakilab.org/OMPL_Primer.pdf) I wanted to try it out myself, so I wrote a little library that does simple sample based motion planning using graph optimization (with Boost::Graph).
 This was only a single afternoon project, so the functionality isn't too crazy yet. Still, it achieves fairly good results, avoiding obstacles in a 3D state-space (x, y, rot) and is about 50x faster than the python implementation.
 
 This was originally a python implementation, which I then ported to C++. In addition to learning about motion planning, I also wanted to get some more experience with some new libraries that caught my attention recently, as well as writing in a good and modern style.
