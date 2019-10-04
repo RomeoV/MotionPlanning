@@ -1,0 +1,18 @@
+[submodule "external/cppitertools"]
+	path = external/cppitertools
+	url = https://github.com/ryanhaining/cppitertools.git
+[submodule "external/fmt"]
+	path = external/fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "external/range-v3"]
+	path = external/range-v3
+	url = https://github.com/ericniebler/range-v3.git
+[submodule "external/eigen"]
+	path = external/eigen
+	url = https://github.com/eigenteam/eigen-git-mirror.git
+[submodule "external/matplotlib-cpp"]
+	path = external/matplotlib-cpp
+	url = https://github.com/lava/matplotlib-cpp.git
+[submodule "external/cxxopts"]
+	path = external/cxxopts
+	url = https://github.com/jarro2783/cxxopts.git
